@@ -1,0 +1,4 @@
+/home/yury/Downloads/opencv-3.4.3/crash_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yury/Downloads/opencv-3.4.3/crash_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yury/Downloads/opencv-3.4.3/crash_test/cmake-build-debug/CMakeFiles/crash_test.dir
+/home/yury/Downloads/opencv-3.4.3/crash_test/cmake-build-debug/CMakeFiles/crash_lib.dir

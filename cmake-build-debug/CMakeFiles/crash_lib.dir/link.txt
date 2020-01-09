@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcrash_lib.a  CMakeFiles/crash_lib.dir/crashlib.cpp.o
+/usr/bin/ranlib libcrash_lib.a
