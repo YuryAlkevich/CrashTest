@@ -1,8 +1,8 @@
 #include "crashlib.h"
 
 #include <iostream>
-#include <opencv2/opencv.hpp>
-#include <thread>
+#include <opencv2/core.hpp>
+#include <opencv2/imgcodecs.hpp>
 
 using namespace std;
 using namespace cv;
